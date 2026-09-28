@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Kamalanathan%20Yathujan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%7C%20Web%20%26%20Mobile%20App%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Kamalanathan Yathujan Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8A84B,50:CC4B98,100:7928CA&height=220&section=header&text=Kamalanathan%20Yathujan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20Network%20Engineer&descAlignY=54&descSize=18&descColor=ffffff" width="100%" alt="Kamalanathan Yathujan Banner" />
 
   <!-- Animated Typing Headline -->
   <a href="https://github.com/Kamalanathan-Yathujan">
